@@ -5,9 +5,12 @@
       "release-type": "node",
       "prerelease": false,
       "include-v-in-tag": true,
-      "pull-request-header": "Release Web App to Production 🚀"
+      "pull-request-header": "Release Web App to Production 🚀",
+      "pull-request-title-pattern": "🚀 Release to My new v${version}"
     }
   },
+  "pull-request-title-pattern": "🚀 Release to My new v${version}",
+  "pull-request-header": "🚀 Release to My v${version}",
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "changelog-sections": [
     {
