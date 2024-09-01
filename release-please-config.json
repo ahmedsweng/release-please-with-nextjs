@@ -8,6 +8,7 @@
       "pull-request-header": "Release Web App to Production 🚀"
     }
   },
+  "pull-request-title-pattern": "🚀 Release to My new v${version}",
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "changelog-sections": [
     {
