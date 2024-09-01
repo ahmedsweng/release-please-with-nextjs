@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/ahmedsweng/release-please-with-nextjs/compare/v2.0.0...v2.1.0) (2024-09-01)
+
+
+### Features
+
+* change from release please to semantic release ([#9](https://github.com/ahmedsweng/release-please-with-nextjs/issues/9)) ([ba90460](https://github.com/ahmedsweng/release-please-with-nextjs/commit/ba90460e77615915f32b0fb79a3cc07d46899fba))
+
 # Changelog
 
 ## [2.0.0](https://github.com/ahmedsweng/release-please-with-nextjs/compare/v1.1.0...v2.0.0) (2024-09-01)
