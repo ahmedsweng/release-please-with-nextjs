@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/ahmedsweng/release-please-with-nextjs/compare/v1.1.0...v2.0.0) (2024-09-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* change action to work on PRs only
+
+### Bug Fixes
+
+* change action to work on PRs only ([ed476dc](https://github.com/ahmedsweng/release-please-with-nextjs/commit/ed476dc390fd8a1caf6fc9177ca72000947f310f))
+* change the action to be triggered only on PRs merged onto dev branch ([f0ea458](https://github.com/ahmedsweng/release-please-with-nextjs/commit/f0ea45857d1b06291fb1f02187542d21f720e88b))
+
 ## [1.1.0](https://github.com/ahmedsweng/release-please-with-nextjs/compare/v1.0.1...v1.1.0) (2024-09-01)
 
 
